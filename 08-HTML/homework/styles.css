@@ -1,0 +1,40 @@
+    
+      h1 {
+        color:darkmagenta;
+        text-align: center;
+        font-size: 80px;
+        font-family:'Lucida Sans';
+    }
+    h3 {
+        text-align: center;
+    }
+    h4 {
+        text-align: center;
+    }
+    img {
+        width: 400px;
+        height: 210px;
+
+    }
+    #thirdDiv {
+        height: 500px;
+        width: 600px;
+        color:deepskyblue;
+        background-color: black;
+        padding: 50px;
+        border: 30px solid violet;
+        margin: 0 auto;
+        justify-content: center;
+        display: flex;
+        text-align: center;
+    }
+    #SpanId {
+        font-size:18px;
+        margin:50px;
+        justify-content: center;
+        display: flex;
+    }
+    
+    body {
+        background: url(https://wallpaperaccess.com/full/2435550.png); 
+    }
